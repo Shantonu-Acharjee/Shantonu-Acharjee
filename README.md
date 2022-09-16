@@ -1,8 +1,5 @@
 <h1 align = "center">Hey! I am Shantonu Acharjee</h1>
 
-
-<img src = './Photo/ShantonuAcharjeeThumbnail.png' alt="Shantonu Acharjee Photo">
-
 ![photo](./Photo/ShantonuAcharjeeThumbnail.png "Shantonu Acharjee")
 
 
@@ -25,9 +22,22 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/shantonu-acharjee](https://www.linkedin.com/in/shantonu-acharjee) <br> <br>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Connect with me:
+
+
+
+
 <a href="https://twitter.com/shantonu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantonu_" height="30" width="40" /></a>
+
+
+
+
+
+
+
+
+
+
 <a href="https://linkedin.com/in/shantonu-acharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantonu-acharjee" height="30" width="40" /></a>
 <a href="https://kaggle.com/shantonuacharjee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shantonuacharjee1" height="30" width="40" /></a>
 <a href="https://fb.com/shantonuacharjeeshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shantonuacharjeeshanto" height="30" width="40" /></a>
