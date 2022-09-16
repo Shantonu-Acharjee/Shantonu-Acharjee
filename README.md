@@ -1,16 +1,10 @@
 <h1 style='font-weight: bold; color: #CC0066; text-align: center;'>Hey! I am Shantonu Acharjee</h1>
 
 
-<img src = './Photo/Shantonu%20Acharjee%20Avatar.png' alt="Shantonu Acharjee Photo" style = '
-width: 150px; 
-border-radius: 50%; 
-border: 2px solid #ddd; 
-display: block; 
-margin: auto;
-'>
+<img src = './Photo/Shantonu%20Acharjee%20Avatar.png' alt="Shantonu Acharjee Photo">
 
 
-<h3 style="text-align : justify">A student of the Electronics Department, PCB Designer, and Python developer. I have started my freelancing career back in 2018 locally. Till now I have developed 35+ electronics, robotics, and python projects using my skills in product prototyping, PCB design, and development. Recently I made Robot Meena, Fire Fighter Robo(Max), Face Mask Detection With Arduino Door Lock, Artificial GirlFriend (Borsha), and Smart House for the science fair. And We have been able to achieve a first place for two years in a row.</h3><br>
+<h3 align = "justify">A student of the Electronics Department, PCB Designer, and Python developer. I have started my freelancing career back in 2018 locally. Till now I have developed 35+ electronics, robotics, and python projects using my skills in product prototyping, PCB design, and development. Recently I made Robot Meena, Fire Fighter Robo(Max), Face Mask Detection With Arduino Door Lock, Artificial GirlFriend (Borsha), and Smart House for the science fair. And We have been able to achieve a first place for two years in a row.</h3><br>
 
 
 
