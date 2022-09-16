@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Shantonu Acharjee</h1>
-<h3 align="center">A student of the Electronics Department, PCB Designer, and Python developer. I have started my freelancing career back in 2018 locally. Till now I have developed 35+ electronics, robotics, and python projects using my skills in product prototyping, PCB design, and development. Recently I made Robot Meena, Fire Fighter Robo(Max), Face Mask Detection With Arduino Door Lock, Artificial GirlFriend (Borsha), and Smart House for the science fair. And We have been able to achieve a first place for two years in a row.</h3>
+<h1 style='font-weight: bold; color: #CC0066; text-align: center;'>Hey! I am Shantonu Acharjee</h1>
+
+
+<img src = './Photo/Shantonu%20Acharjee%20Avatar.png' alt="Shantonu Acharjee Photo" style = '
+width: 150px; 
+border-radius: 50%; 
+border: 2px solid #ddd; 
+display: block; 
+margin: auto;
+'>
+
+
+<h3 align="justify">A student of the Electronics Department, PCB Designer, and Python developer. I have started my freelancing career back in 2018 locally. Till now I have developed 35+ electronics, robotics, and python projects using my skills in product prototyping, PCB design, and development. Recently I made Robot Meena, Fire Fighter Robo(Max), Face Mask Detection With Arduino Door Lock, Artificial GirlFriend (Borsha), and Smart House for the science fair. And We have been able to achieve a first place for two years in a row.</h3><br>
+
+
+
 
 - 🔭 I’m currently working on [Robot Meena](https://github.com/Shantonu-Acharjee/Robot-Meena)
 
@@ -9,11 +23,10 @@
 
 - 📝 I regularly write articles on [https://shantonuacharjee.blogspot.com](https://shantonuacharjee.blogspot.com)
 
-- 💬 Ask me about **Arduino**
+- 📫 Reach me **ShantonuAcharjee@gmail.com**
 
-- 📫 How to reach me **ShantonuAcharjee@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/shantonu-acharjee](https://www.linkedin.com/in/shantonu-acharjee) <br> <br>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shantonu-acharjee](https://www.linkedin.com/in/shantonu-acharjee)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
