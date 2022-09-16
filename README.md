@@ -4,7 +4,8 @@
 
 # About Me
 
-<h3 align = "justify">A student of the Electronics Department, PCB Designer, and Python developer. I have started my freelancing career back in 2018 locally. Till now I have developed 35+ electronics, robotics, and python projects using my skills in product prototyping, PCB design, and development. Recently I made Robot Meena, Fire Fighter Robo(Max), Face Mask Detection With Arduino Door Lock, Artificial GirlFriend (Borsha), and Smart House for the science fair. And We have been able to achieve a first place for two years in a row.</h3><br>
+<h3 align = "justify">I am a student of the Electronics Department, PCB Designer, and Python developer. I started my freelancing career back in 2018 locally. Till now I have developed 35+ electronics, robotics, and python projects using my skills in product prototyping, PCB design, and development. Recently I made Robot Meena, Fire Fighter Robo(Max), Face Mask Detection With Arduino Door Lock, Artificial GirlFriend (Borsha), and Smart House for the science fair. And We have achieved first place for two years in a row.
+</h3><br>
 
 
 
