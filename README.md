@@ -59,16 +59,16 @@ I am a student of the Electronics Department, PCB Designer, and Python developer
 
 <style>
     
-    .social{
-        text-align: center;
-    }
+.social{
+text-align: center;
+}
     
-    .social img{
-        width: 30px;
-        height: 30px;
-        background-color: palevioletred;
-        padding: 5px;
-        border-radius: 5px;
-    }
+.social img{
+width: 30px;
+height: 30px;
+background-color: palevioletred;
+padding: 5px;
+border-radius: 5px;
+}
     
 </style>
