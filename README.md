@@ -25,31 +25,25 @@ I am a student of the Electronics Department, PCB Designer, and Python developer
 - 📄 Know about my experiences [https://www.linkedin.com/in/shantonu-acharjee](https://www.linkedin.com/in/shantonu-acharjee) <br> <br>
 
 
-# Connect with me:
-- Phone   :- +880 1789333514
-- Email   :- ShantonuAcharjee@gmail.com
-- Website :- https://shantonuacharjee.blogspot.com
+# Connect with me
+
+- **Phone     :-** +880 1789333514
+- **Email     :-** ShantonuAcharjee@gmail.com
+- **Website   :-** https://shantonuacharjee.blogspot.com
+- **Twitter   :-** https://twitter.com/shantonu_
+- **Linkedin  :-** https://linkedin.com/in/shantonu-acharjee
+- **Kaggle    :-** https://kaggle.com/shantonuacharjee1
+- **Facebook  :-** https://fb.com/shantonuacharjeeshanto
+- **Instagram :-** https://instagram.com/shantonu_acharjee
+- **YouTube   :-** https://www.youtube.com/c/it’smeshantonu
+- **Pinterest :-** https://www.pinterest.com/Shantonu_
+- **Tiktok    :-** https://www.tiktok.com/@shantonu_
+- **Reddit    :-** https://www.reddit.com/user/Shantonu_
 
 <br>
+<br> 
 
-
-
-
-    
-<a href="https://twitter.com/shantonu_"><img src="./icon/twitter.svg" alt="twitter logo" width="30px" height="30px" style = "background-color: palevioletred; padding: 5px; border-radius: 5px;"></a>
-
-
-
-
-
-<a href="https://linkedin.com/in/shantonu-acharjee"><img src="./icon/linkedin.svg" alt="linkedin logo" ></a>
-
-
-<a href="https://kaggle.com/shantonuacharjee1"><img src="./icon/kaggle.svg" alt="kaggle logo"></a>
-<a href="https://fb.com/shantonuacharjeeshanto"><img src="./icon/facebook.svg" alt="facebook logo"></a>
-<a href="https://instagram.com/shantonu_acharjee"><img src="./icon/instagram.svg" alt="instagram logo"></a>
-<a href="https://www.youtube.com/c/it’smeshantonu"><img src="./icon/youtube.svg" alt="youtube logo"></a>
-<br> Copyright © 2019 [Shantonu Acharjee](https://shantonuacharjee.blogspot.com).
+Copyright © 2019 [Shantonu Acharjee](https://shantonuacharjee.blogspot.com)
 
 
 
