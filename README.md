@@ -34,41 +34,25 @@ I am a student of the Electronics Department, PCB Designer, and Python developer
 
 
 
-<div class = 'social'>
+
     
-<a href="https://twitter.com/shantonu_"><img src="./icon/twitter.svg" alt="twitter logo"></a>
-<a href="https://linkedin.com/in/shantonu-acharjee"><img src="./icon/linkedin.svg" alt="linkedin logo"></a>
+<a href="https://twitter.com/shantonu_"><img src="./icon/twitter.svg" alt="twitter logo" width="30px" height="30px" style = "background-color: palevioletred; padding: 5px; border-radius: 5px;"></a>
+
+
+
+
+
+<a href="https://linkedin.com/in/shantonu-acharjee"><img src="./icon/linkedin.svg" alt="linkedin logo" ></a>
+
+
 <a href="https://kaggle.com/shantonuacharjee1"><img src="./icon/kaggle.svg" alt="kaggle logo"></a>
 <a href="https://fb.com/shantonuacharjeeshanto"><img src="./icon/facebook.svg" alt="facebook logo"></a>
 <a href="https://instagram.com/shantonu_acharjee"><img src="./icon/instagram.svg" alt="instagram logo"></a>
 <a href="https://www.youtube.com/c/it’smeshantonu"><img src="./icon/youtube.svg" alt="youtube logo"></a>
 <br> Copyright © 2019 [Shantonu Acharjee](https://shantonuacharjee.blogspot.com).
 
-</div>
 
 
 
 
 
-
-
-
-
-
-
-
-<style>
-    
-.social{
-text-align: center;
-}
-    
-.social img{
-width: 30px;
-height: 30px;
-background-color: palevioletred;
-padding: 5px;
-border-radius: 5px;
-}
-    
-</style>
