@@ -40,10 +40,9 @@ I am a student of the Electronics Department, PCB Designer, and Python developer
 - **Tiktok    :-** https://www.tiktok.com/@shantonu_
 - **Reddit    :-** https://www.reddit.com/user/Shantonu_
 
-<br>
 <br> 
 
-Copyright © 2019 [Shantonu Acharjee](https://shantonuacharjee.blogspot.com)
+<p align = "center"> Copyright © 2022 [Shantonu Acharjee](https://shantonuacharjee.blogspot.com) </p>
 
 
 
