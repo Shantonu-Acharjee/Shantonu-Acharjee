@@ -36,4 +36,6 @@
 <a href="https://fb.com/shantonuacharjeeshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shantonuacharjeeshanto" height="30" width="40" /></a>
 <a href="https://instagram.com/shantonu_acharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shantonu_acharjee" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/it’smeshantonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="it’smeshantonu" height="30" width="40" /></a>
-</p>
+
+## 📝 License
+Copyright © 2019 [Shantonu Acharjee](https://shantonuacharjee.blogspot.com).
