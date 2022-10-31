@@ -7,8 +7,7 @@
 # About Me
 <p align = "justify">
 I am a student of the Electronics Department, PCB Designer, and Python developer. I started my freelancing career back in 2018 locally. Till now I have developed 35+ electronics, robotics, and python projects using my skills in product prototyping, PCB design, and development. Recently I made Robot Meena, Fire Fighter Robo(Max), Face Mask Detection With Arduino Door Lock, Artificial GirlFriend (Borsha), and Smart House for the science fair. And We have achieved first place for two years in a row.
-</p><br>
-
+</p>
 
 
 
@@ -23,6 +22,8 @@ I am a student of the Electronics Department, PCB Designer, and Python developer
 - 📫 Reach me **ShantonuAcharjee@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shantonu-acharjee](https://www.linkedin.com/in/shantonu-acharjee) <br> <br>
+
+
 
 
 # Connect with me
@@ -42,7 +43,7 @@ I am a student of the Electronics Department, PCB Designer, and Python developer
 
 <br> 
 
-<p align = "center"> Copyright © 2022 [Shantonu Acharjee](https://shantonuacharjee.blogspot.com) </p>
+<p align = "center">Copyright © 2022 Shantonu Acharjee</p>
 
 
 
