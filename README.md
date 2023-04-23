@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantonu</h1>
-<img src="./Photo/ShantonuAcharjeeThumbnail.png" alt="Shantonu Acharjee Photo" title="Shantonu Acharjee"/> <br>
+<img src="./Photo/ShantonuAcharjeeThumbnail.png" alt="Shantonu Acharjee Photo" title="Shantonu Acharjee"/>
 <h3 align="center">As an experienced professional with a passion for cutting-edge technologies, I bring 2 years of expertise in Artificial Intelligence and 5 years of proficiency in microcontrollers, Digital Electronics, and home automation systems. Skilled in developing AI models and embedded systems, I specialize in integrating advanced technologies to create innovative solutions. With a diverse skill set and a track record of success, I strive to drive advancements in AI and embedded systems to create meaningful impact in various industries.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantonu-acharjee&label=Profile%20views&color=0e75b6&style=flat" alt="shantonu-acharjee" /> </p>
